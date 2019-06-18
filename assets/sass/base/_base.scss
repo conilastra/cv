@@ -1,0 +1,25 @@
+body {
+    font-family: $lato;
+    color: $blueish;
+    line-height: 1.6;
+}
+
+hr {
+    border: .5px solid rgb(204, 200, 200);
+}
+
+p {
+    font-size: 90%;
+}
+
+a {
+    font-size: 100%;
+    text-decoration: none;
+    color: $blueish;
+    font-weight: $bold;
+    display: block;
+  }
+  
+  a:hover {
+    color: gray;
+  }
