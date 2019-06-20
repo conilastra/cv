@@ -602,7 +602,7 @@ a:hover {
   position: fixed;
   min-width: 10vw;
   height: 100vh;
-  background-color: #60F3A3;
+  background-color: #48fba0;
   padding: 5em 0;
   text-align: center;
 }
@@ -613,7 +613,7 @@ a:hover {
     position: fixed;
     width: 30vw;
     height: 40vh;
-    background-color: #60F3A3;
+    background-color: #48fba0;
     padding: 5em 0;
     text-align: center;
   }
@@ -722,7 +722,7 @@ a:hover {
 }
 .thumbnail {
   border-radius: 50%;
-  width: 60%;
+  width: 65%;
   height: auto;
   object-fit: none;
   margin-bottom: 1em;
@@ -741,12 +741,12 @@ a:hover {
 }
 
 .fixed-menu a {
-  font-size: 100%;
+  font-size: 95%;
   text-decoration: none;
   color: #2D3047;
-  font-weight: 700;
+  font-weight: 500;
   display: block;
-  padding: 0.2em 0;
+  line-height: 2;
 }
 
 a:hover {
@@ -843,7 +843,7 @@ a:hover {
     margin: -10px 0 0 -50px;
     padding: 1rem;
     padding-top: 2rem;
-    background: #60F3A3;
+    background: #48fba0;
     list-style-type: none;
     -webkit-font-smoothing: antialiased;
     transform-origin: 0% 0%;
